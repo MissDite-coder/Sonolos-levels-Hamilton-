@@ -1,4 +1,7 @@
-{ "version": 1,
+{
+  "bgm": "bgm.mp3",
+  "offset": 0,
+  "notes": [ { "version": 1,
   "song": {
     "title": "Say No To This (Custom Chart)",
     "artist": "Hamilton / Lin-Manuel Miranda",
